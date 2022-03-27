@@ -33,6 +33,6 @@ git rebase -i  --autosquash
  # Git hooks
  use Husky javascript library to use git hooks.
  
- # Goto previous brnach - if you had recently switched out of branch and forgot brnach name, you could tp previous branch
+ # Goto previous branch - if you had recently switched out of branch and forgot brnach name, you could tp previous branch
  git checkout - 
   
